@@ -1067,7 +1067,6 @@ a:active {
     /* 青色邊框 */
     box-shadow: 0 0 20px rgba(0, 229, 188, 0.1);
     transition: all 0.5s ease;
-    margin-bottom: 50px;
 }
 
 .video-container:hover {
@@ -1852,7 +1851,7 @@ a:active {
 
 /* --- End 聯絡資訊 --- */
 .illi {
-    background-image: url('img/END.png');
+    background-image: url('IMG/END.png');
     display: flex;
     justify-content: center;
     align-items: center;
